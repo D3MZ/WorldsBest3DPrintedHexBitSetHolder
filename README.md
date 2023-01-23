@@ -22,7 +22,6 @@ Lots of 4mm hex bits sockets (135!), and it mounts to your Wall Control Pegboard
 5. (Optional for Wall Control Users):
    1. Insert 4 knurled set screws inside the base print.
    2. Screw the corresponding flat headcap screws (they should be flush with the plastic) connecting the wall control bracket to the base plate.
-6. You’re done 😆
 
 ## How you can improve this
 * Change the holes from hex to circles. It’ll be faster to print, and a reasonable improvement on usability. 
